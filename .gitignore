@@ -72,3 +72,14 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+Platforms/*
+
+*.uasset
+*.png
+*.TGA
+*.wav
+*.fbx
+*.txt
+*.fla
+*.umap
